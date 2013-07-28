@@ -1,0 +1,1 @@
+#!/bin/bashphp freebox.php $1
