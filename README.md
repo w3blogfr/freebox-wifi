@@ -12,11 +12,11 @@ Il est désormais possible pour des applications externes de contrôler la Freeb
 Pourquoi pas dès lors planifier l'activation/désactivation du wifi de la Freebox en fonction des horaires de présence dans votre maison.
 
 On peux y voir 2 avantages :
-1. Economise l'énergie en désactivant le wifi dans la journée quand on est au travail
-2. Diminuer l'exposition aux ondes Wifi la nuit
+- Economise l'énergie en désactivant le wifi dans la journée quand on est au travail
+- Diminuer l'exposition aux ondes Wifi la nuit
 
 Le script freebox.php permet d'activer/désactiver le wifi, il ne reste plus qu'à créer une tache planifié (cron).
 Cela peux se faire :
-1. sur un serveur nas connecté à votre freebox
-2. Un script sur internet en activant l'accès à distance de votre freebox
+- sur un serveur nas connecté à votre freebox
+- Un script sur internet en activant l'accès à distance de votre freebox
 
