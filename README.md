@@ -19,4 +19,6 @@ Le script freebox.php permet d'activer/désactiver le wifi, il ne reste plus qu'
 Cela peux se faire :
 - sur un serveur nas connecté à votre freebox
 - Un script sur internet en activant l'accès à distance de votre freebox
+ 
 
+Pour le détail sur l'utilisation et l'installation : https://github.com/w3blogfr/freebox-wifi/wiki/Installation
